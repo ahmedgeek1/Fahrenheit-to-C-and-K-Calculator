@@ -1,0 +1,12 @@
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\bin\Debug\Assessment5A.exe.config
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\bin\Debug\Assessment5A.exe
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\bin\Debug\Assessment5A.pdb
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\obj\Debug\Assessment5A.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\obj\Debug\Assessment5A.Form1.resources
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\obj\Debug\Assessment5A.Properties.Resources.resources
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\obj\Debug\Assessment5A.csproj.GenerateResource.Cache
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\obj\Debug\Assessment5A.exe
+C:\Users\24210285\Desktop\Assessment5A\Assessment5A\obj\Debug\Assessment5A.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment5A-20170927T031600Z-001\Assessment5A\Assessment5A\bin\Debug\Assessment5A.exe.config
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment5A-20170927T031600Z-001\Assessment5A\Assessment5A\obj\Debug\Assessment5A.exe
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Assessment5A-20170927T031600Z-001\Assessment5A\Assessment5A\obj\Debug\Assessment5A.pdb
